@@ -375,3 +375,7 @@ body {
 .navbar-brand>img {
     margin-top: -15px;
 }
+
+.navbar {
+    min-height: 85px;
+}
