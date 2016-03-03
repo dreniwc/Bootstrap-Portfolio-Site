@@ -375,3 +375,8 @@ body {
 .col-md-offset-2 {
     margin-left: 0px;
 }
+
+.brand-heading {
+    -webkit-text-stroke-width: 3px;
+   -webkit-text-stroke-color: black;
+}
