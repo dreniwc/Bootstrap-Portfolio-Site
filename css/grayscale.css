@@ -379,3 +379,13 @@ body {
 .navbar {
     min-height: 85px;
 }
+
+@media (min-width: 768px) {
+.navbar-nav>li>a {
+    padding-top: 35px;
+}
+}
+
+.navbar-toggle {
+    margin-top: 20px;
+}
