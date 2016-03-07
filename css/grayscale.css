@@ -372,6 +372,7 @@ body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
 
+/*Header css */
 .col-md-offset-2 {
     margin-left: 0px;
 }
@@ -379,4 +380,23 @@ body {
 .brand-heading {
     -webkit-text-stroke-width: 3px;
    -webkit-text-stroke-color: black;
+}
+
+/*Navigation css */
+.navbar-brand>img {
+    margin-top: -15px;
+}
+
+.navbar {
+    min-height: 85px;
+}
+
+@media (min-width: 768px) {
+.navbar-nav>li>a {
+    padding-top: 35px;
+}
+}
+
+.navbar-toggle {
+    margin-top: 20px;
 }
