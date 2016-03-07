@@ -432,7 +432,7 @@ body {
 width:110px;
   font-weight:bold;
   font-size:13px;
-  color:#ffffff;
+  color:#000000;
   background:#6adcfa;
   -webkit-border-top-left-radius:3px;
   -webkit-border-bottom-left-radius:4px;
@@ -472,7 +472,7 @@ width:110px;
   font-size:11px;
   height:35px;
   line-height:35px;
-  color:#ffffff;
+  color:#000000!important;
   color:rgba(0, 0, 0, 0.4);
 }
 /*Skill bar ends */
