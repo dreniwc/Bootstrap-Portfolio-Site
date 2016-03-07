@@ -185,3 +185,15 @@ function init() {
         icon: image
     });
 }
+
+// Script below for Skill Set slider from-  www.w3lessons.info/2013/06/04/skill-bar-with-jquery-css3/ 
+
+              jQuery(document).ready(function(){
+            jQuery('.skillbar').each(function(){
+                jQuery(this).find('.skillbar-bar').animate({
+                    width:jQuery(this).attr('data-percent')
+                },6000);
+            });
+        });
+
+      // Skill set slider script end
