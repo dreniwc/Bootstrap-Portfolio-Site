@@ -477,6 +477,7 @@ width:110px;
 }
 /*Skill bar ends */
 
+/*Blog css */
 .blogs-section h3 {
     font-size: 20px;
     margin-bottom: 10px;
@@ -485,3 +486,125 @@ width:110px;
 .col-md-4 {
     margin-top: 20px;
 }
+
+/*Contact form css*/
+/* From- http://formspree.io/ */
+
+  input {
+
+  color: #000;
+  background: #fff;
+  border: 5px solid #42dca3;
+  border-radius: 5px;
+  padding-left: 10px;
+   width:50%;
+  font-size: 25px;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  margin-left: 10px;
+  }
+
+  fieldset label {
+    font-size: 25px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    padding: 10px;
+    color: #000;
+    letter-spacing: 2px;
+  }
+
+  label {
+
+  width: 100%;
+  text-align: center;
+  display: inline-block;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 25px;
+    font-weight: 400;
+    padding: 10px;
+    color: #ffffff;
+    letter-spacing: 2px;
+  }
+
+
+  input[type="submit"]{
+
+  font-size: 48px;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  display:inline-block;
+  cursor: pointer;
+  margin: auto;
+  margin-left: 10px;
+  background-color: #aaabab;
+  }
+
+  .submitbutton {
+  font-size: 30px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    display: inline-block;
+    cursor: pointer;
+    margin: auto;
+    background-color: #ffffff;
+    border: 5px solid #42dca3;
+    padding: 8px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #000000;
+  }
+
+  fieldset
+  {
+  margin: auto;
+  text-align: center;
+  border: 0px solid #000;
+  border-radius: 5px;
+  width: 55%;
+  margin-left: 50px;
+
+  }
+
+
+  textarea {
+    display: block;
+    color: #000;
+  background: #fff;
+  border: 5px solid #42dca3;
+  border-radius: 5px;
+  width: 50%;
+  font-size: 25px;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  padding-left: 10px;
+  height: 140px;
+  margin: auto;
+
+  }
+
+  *, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  }
+
+  .textarea {
+  margin: 0px auto;
+  width: 500px;
+  margin-left: 10px;
+  }
+
+@media only screen and (max-width: 1200px) {
+  .textarea {
+  width: 300px;
+  }
+  fieldset {
+    margin-left: 0px;
+  }
+}
+
+@media all and (max-width: 900px) {
+
+input {width: 90%}
+textarea {width: 90%}
+
+}
+
+/*Contact Form End*/
+
