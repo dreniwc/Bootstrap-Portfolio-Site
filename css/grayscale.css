@@ -484,18 +484,18 @@ width:110px;
 
   color: #000;
   background: #fff;
-  border: 5px solid #ff8300;
+  border: 5px solid #42dca3;
   border-radius: 5px;
   padding-left: 10px;
    width:50%;
-  font-size: 30px;
-  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
   margin-left: 10px;
   }
 
   fieldset label {
-    font-size: 30px;
-    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     padding: 10px;
     color: #000;
@@ -507,8 +507,8 @@ width:110px;
   width: 100%;
   text-align: center;
   display: inline-block;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 30px;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 25px;
     font-weight: 400;
     padding: 10px;
     color: #ffffff;
@@ -519,7 +519,7 @@ width:110px;
   input[type="submit"]{
 
   font-size: 48px;
-  font-family: 'Oswald', sans-serif;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
   display:inline-block;
   cursor: pointer;
   margin: auto;
@@ -528,16 +528,17 @@ width:110px;
   }
 
   .submitbutton {
-  font-size: 40px;
-    font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     display: inline-block;
     cursor: pointer;
     margin: auto;
-    background-color: #aaabab;
-    border: 5px solid #ff8300;
+    background-color: #ffffff;
+    border: 5px solid #42dca3;
     padding: 8px;
     margin-top: 20px;
     margin-bottom: 20px;
+    color: #000000;
   }
 
   fieldset
@@ -556,11 +557,11 @@ width:110px;
     display: block;
     color: #000;
   background: #fff;
-  border: 5px solid #ff8300;
+  border: 5px solid #42dca3;
   border-radius: 5px;
   width: 50%;
-  font-size: 30px;
-  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
   padding-left: 10px;
   height: 140px;
   margin: auto;
