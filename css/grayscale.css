@@ -479,4 +479,9 @@ width:110px;
 
 .blogs-section h3 {
     font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.col-md-4 {
+    margin-top: 20px;
 }
