@@ -261,7 +261,7 @@ a:focus {
     padding-top: 100px;
 }
 
-.download-section {
+.blogs-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
@@ -284,7 +284,7 @@ a:focus {
         padding-top: 250px;
     }
 
-    .download-section {
+    .blogs-section {
         padding: 100px 0;
     }
 
@@ -476,3 +476,7 @@ width:110px;
   color:rgba(0, 0, 0, 0.4);
 }
 /*Skill bar ends */
+
+.blogs-section h3 {
+    font-size: 20px;
+}
