@@ -47,3 +47,10 @@ $('.navbar-collapse ul li a').click(function() {
         });
 
       // Skill set slider script end
+
+$( ".refs" ).click(function(event) {
+                event.preventDefault();
+                $( ".content" ).slideToggle( "slow", function() {
+                  // Animation complete.
+                });
+              });
