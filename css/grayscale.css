@@ -663,3 +663,7 @@ textarea {width: 90%}
         font-size: 26px;
     }
 }
+
+.blog-content-section {
+    padding-top: 100px;
+}
