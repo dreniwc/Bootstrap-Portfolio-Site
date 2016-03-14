@@ -734,3 +734,9 @@ textarea {width: 90%}
     font-style: italic;
   }
 /*refrence buton end*/
+@media(max-width:768px) {
+.blog-intro {
+      height: 400px;
+    padding-bottom: 0px;
+}
+}
