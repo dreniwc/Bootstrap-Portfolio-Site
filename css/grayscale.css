@@ -620,3 +620,46 @@ textarea {width: 90%}
 
 /*Contact Form End*/
 
+/*Blog sub pages css */
+.blog-intro {
+    display: table;
+    width: 100%;
+    height: auto;
+    padding: 100px 0;
+    text-align: center;
+    color: #fff;
+    background: url(../img/london.jpg) no-repeat bottom center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.blog-intro .blog-intro-body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.blog-intro .blog-intro-body .brand-heading {
+    font-size: 40px;
+}
+
+.blog-intro .blog-intro-body .blog-intro-text {
+    font-size: 18px;
+}
+
+@media(min-width:768px) {
+    .blog-intro {
+        height: 650px;
+        padding: 0;
+    }
+
+    .blog-intro .blog-intro-body .brand-heading {
+        font-size: 100px;
+    }
+
+    .blog-intro .blog-intro-body .blog-intro-text {
+        font-size: 26px;
+    }
+}
