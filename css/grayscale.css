@@ -729,4 +729,8 @@ textarea {width: 90%}
   display: none;
 }
 /*Refrences Hide until clicked ends*/
+
+  .quote {
+    font-style: italic;
+  }
 /*refrence buton end*/
