@@ -703,3 +703,8 @@ footer .list-inline {
   margin-bottom: 0px;
   text-align: center;
 }
+
+footer .copyright {
+  text-align: center;
+  margin-top: 15px;
+}
