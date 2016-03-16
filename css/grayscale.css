@@ -680,6 +680,11 @@ textarea {width: 90%}
   margin-top: 50px;
   margin-bottom: 50px;
 }
+
+#top-link-block.affix {
+  display: none;
+}
+
 }
 
 .cv-margin p{
@@ -718,4 +723,5 @@ footer .copyright {
     position: fixed; /* keeps it on the bottom once in view */
     bottom: 18px; /* height of link element */
     right: 10px; /* padding from the left side of the window */
+    margin: 20px;
 }
