@@ -658,6 +658,11 @@ textarea {width: 90%}
     font-style: italic;
   }
 /*refrence buton end*/
+
+.cv-margin {
+  margin-top: 150px;
+}
+
 @media(max-width:768px) {
 .blog-intro {
       height: 400px;
@@ -670,15 +675,18 @@ textarea {width: 90%}
 .intro {
   height: 100%;
 }
+
+.cv-margin {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
 }
 
 .cv-margin p{
   margin-bottom: 0px;
 }
 
-.cv-margin {
-  margin-top: 150px;
-}
+
 
 .progress-bar {
   background-color: #42dca3;
