@@ -691,3 +691,9 @@ textarea {width: 90%}
   font-size: 14px;
   font-weight: 700;
 }
+
+.pager li>a, .pager li>span {
+  background-color: transparent;
+  border:3px solid #42dca3;
+  font-weight: 700;
+}
