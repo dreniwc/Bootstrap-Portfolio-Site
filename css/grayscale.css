@@ -672,8 +672,12 @@ textarea {width: 90%}
 }
 }
 
-.no-margin p{
+.cv-margin p{
   margin-bottom: 0px;
+}
+
+.cv-margin {
+  margin-top: 150px;
 }
 
 .progress-bar {
