@@ -686,8 +686,8 @@ textarea {width: 90%}
   margin-bottom: 0px;
 }
 
-
-
 .progress-bar {
   background-color: #42dca3;
+  font-size: 14px;
+  font-weight: 700;
 }
