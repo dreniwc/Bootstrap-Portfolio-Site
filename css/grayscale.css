@@ -697,3 +697,9 @@ textarea {width: 90%}
   border:3px solid #42dca3;
   font-weight: 700;
 }
+
+footer .list-inline {
+  font-size: 30px;
+  margin-bottom: 0px;
+  text-align: center;
+}
