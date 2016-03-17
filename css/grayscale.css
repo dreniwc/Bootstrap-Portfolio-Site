@@ -695,6 +695,11 @@ textarea {width: 90%}
   background-color: #42dca3;
   font-size: 14px;
   font-weight: 700;
+  line-height: 40px;
+}
+
+.progress {
+  height: 40px;
 }
 
 .pager li>a, .pager li>span {
